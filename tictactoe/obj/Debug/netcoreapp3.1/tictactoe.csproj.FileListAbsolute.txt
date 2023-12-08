@@ -1,0 +1,5 @@
+C:\Users\gourav.majee\Desktop\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.csproj.AssemblyReference.cache
+C:\Users\gourav.majee\Desktop\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gourav.majee\Desktop\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfoInputs.cache
+C:\Users\gourav.majee\Desktop\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfo.cs
+C:\Users\gourav.majee\Desktop\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.csproj.CoreCompileInputs.cache
